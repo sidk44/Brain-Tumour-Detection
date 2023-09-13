@@ -156,3 +156,4 @@ plt.imshow(img, interpolation='nearest')
 a = model.predict(img_array)
 indices = a.argmax()
 indices
+
