@@ -1,0 +1,17 @@
+Pycharm IDE (professional).
+Use of the following libraries.
+numpy
+pandas
+os
+cv2 (OpenCV)
+tensorflow
+keras
+scikit-learn
+ipywidgets
+io
+PIL (Python Imaging Library)
+tqdm
+seaborn
+matplotlib
+.
+pip install numpy pandas opencv-python tensorflow keras scikit-learn ipywidgets Pillow tqdm seaborn matplotlib
